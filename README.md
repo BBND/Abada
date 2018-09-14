@@ -12,7 +12,7 @@ Verify an email address if it's pwned or not.
 
 ## How it works ?
 
-| Plugin | README |
+| Argument | Description |
 | ------ | ------ |
 | -h, --help | Display help message and exit |
 | -e [address], --email [address] | Put an email to check if it's leaked or not |
