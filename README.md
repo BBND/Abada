@@ -10,6 +10,13 @@ Verify an email address if it's pwned or not.
 - **Multitasking tool**
 - **Instant answer**
 
+## Install
+
+```sh
+$ git clone https://github.com/BBND/Abada
+$ cd Abada
+```
+
 ## How it works ?
 
 | Argument | Description |
