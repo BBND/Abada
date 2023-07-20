@@ -1,4 +1,7 @@
-![Trace your mail](https://abada.bbnd.eu/assets/img/logo.png)
+<p align="center">
+  <img width="460" height="300" src="https://abada.bbnd.eu/assets/img/logo.png">
+</p>
+
 # Abada ✉️
 is a Python-based tool that allows you to check if an email address has been compromised in a data breach. It utilizes the BreachDirectory API from RapidAPI to provide comprehensive information about the breach, if any.
 
