@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="https://abada.bbnd.eu/assets/img/logo.png">
+  <img width="233" height="233" src="https://abada.bbnd.eu/assets/img/logo.png">
 </p>
 
 # Abada ✉️
